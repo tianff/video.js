@@ -279,8 +279,7 @@ This default value is hardcoded as a default to the localize method in the SeekB
 |                         | {1} is loading.                                                                     |
 |                         | Exit Picture-in-Picture                                                             |
 |                         | Picture-in-Picture                                                                  |
-| de.json (missing 2)     | Exit Picture-in-Picture                                                             |
-|                         | Picture-in-Picture                                                                  |
+| de.json (Complete)      |                                                                                     |
 | el.json (missing 49)    | Audio Player                                                                        |
 |                         | Video Player                                                                        |
 |                         | Replay                                                                              |
@@ -791,10 +790,8 @@ This default value is hardcoded as a default to the localize method in the SeekB
 |                         | {1} is loading.                                                                     |
 |                         | Exit Picture-in-Picture                                                             |
 |                         | Picture-in-Picture                                                                  |
-| pt-BR.json (missing 4)  | Seek to live, currently behind live                                                 |
+| pt-BR.json (missing 2)  | Seek to live, currently behind live                                                 |
 |                         | Seek to live, currently playing live                                                |
-|                         | Exit Picture-in-Picture                                                             |
-|                         | Picture-in-Picture                                                                  |
 | pt-PT.json (missing 48) | Audio Player                                                                        |
 |                         | Video Player                                                                        |
 |                         | Seek to live, currently behind live                                                 |
@@ -916,6 +913,7 @@ This default value is hardcoded as a default to the localize method in the SeekB
 |                         | Picture-in-Picture                                                                  |
 | sv.json (missing 2)     | Exit Picture-in-Picture                                                             |
 |                         | Picture-in-Picture                                                                  |
+| th.json (Complete)      |                                                                                     |
 | tr.json (missing 13)    | Audio Player                                                                        |
 |                         | Video Player                                                                        |
 |                         | Seek to live, currently behind live                                                 |
@@ -938,8 +936,7 @@ This default value is hardcoded as a default to the localize method in the SeekB
 |                         | {1} is loading.                                                                     |
 |                         | Exit Picture-in-Picture                                                             |
 |                         | Picture-in-Picture                                                                  |
-| zh-CN.json (missing 2)  | Exit Picture-in-Picture                                                             |
-|                         | Picture-in-Picture                                                                  |
+| zh-CN.json (Complete)   |                                                                                     |
 | zh-TW.json (missing 2)  | Exit Picture-in-Picture                                                             |
 |                         | Picture-in-Picture                                                                  |
 

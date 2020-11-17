@@ -484,6 +484,33 @@ class Tech extends Component {
   }
 
   /**
+   * Start playback
+   *
+   * @abstract
+   *
+   * @see {Html5#play}
+   */
+  play() {}
+
+  /**
+   * Set whether we are scrubbing or not
+   *
+   * @abstract
+   *
+   * @see {Html5#setScrubbing}
+   */
+  setScrubbing() {}
+
+  /**
+   * Get whether we are scrubbing or not
+   *
+   * @abstract
+   *
+   * @see {Html5#scrubbing}
+   */
+  scrubbing() {}
+
+  /**
    * Causes a manual time update to occur if {@link Tech#manualTimeUpdatesOn} was
    * previously called.
    *
